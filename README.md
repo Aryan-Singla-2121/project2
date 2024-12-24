@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-Created by Aryan Singla.
+Created by Aryan Singla
